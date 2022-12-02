@@ -46,6 +46,7 @@ const servers = [
     "t66dahEDtlQkyxV4y8YTdD9AXdadRYb6Bzt", // The Center
     "f882ntGWodky9ENGd1J3jk8opVaOMZ03VV", // Scorched Earth
     "z4Q7KfrPBUhx6ma4Ur1bJAonYHhRV21O66X", // Lost Island
+    "Pw1HoXknIDfSxDlJHVvsqz0mftoNWfABxNc" // Genesis 2
     
 ];
 servers.forEach(server => addServer(server));
